@@ -32,7 +32,7 @@ export default function Search() {
       </div>
       <City info={text} />
     </div>
-    <p className="link-container"><a href="https://github.com/Natsumychan/weather-app-react" target="_blank">Open-source code</a>, by <a href="https://www.shecodes.io/graduates/55940-diana-castano" target="_blank">Diana Castaño</a> for <a href="https://www.shecodes.io/" target="_blank">Shecodes project</a></p>
+    <p className="link-container"><a href="https://github.com/Natsumychan/weather-app-react" target="_blank"  rel="noopener noreferrer">Open-source code</a>, by <a href="https://www.shecodes.io/graduates/55940-diana-castano" target="_blank"  rel="noopener noreferrer">Diana Castaño</a> for <a href="https://www.shecodes.io/" target="_blank"  rel="noopener noreferrer">Shecodes project</a></p>
     </>
   );
 }
