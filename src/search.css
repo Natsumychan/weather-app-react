@@ -35,3 +35,12 @@ p {
  align-items: flex-end;
  width: 50%;
 }
+
+.link-container{
+text-align: center;
+font-size:0.8rem;
+}
+
+.link-container a{
+ text-decoration: none;
+}
